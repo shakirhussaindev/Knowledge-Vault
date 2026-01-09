@@ -276,3 +276,43 @@ h1 span{
 .early-access .p2{
   padding-bottom: 0;
 }
+
+
+/* Footer CSS */
+footer{
+  background-color: #001931;
+  padding-top: 120px;
+}
+
+.footerflex{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 80px;
+}
+footer p{
+  color: white;
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+.social{
+  margin-right: 107px;
+}
+footer .social-links{
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+}
+footer hr{
+  border-color: #6f748033 ;
+}
+footer small{
+  color: #929292;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+footer .small{
+  padding: 30px 0;
+  text-align: center;
+}
