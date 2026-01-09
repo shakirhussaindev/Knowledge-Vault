@@ -235,3 +235,44 @@ h1 span{
 .solution ul li i{
   margin-right: 6px;
 }
+
+/* Early-Access Style */
+
+.early-access{
+  background-color: #F7F6F2;
+  border-radius: 12px;
+  margin-bottom: 120px;
+  padding: 80px 0;
+}
+.early-access h4{
+  color: #001931;
+  font-size: 40px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 16px;
+}
+.early-access p{
+  color: #627382;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  padding-bottom: 24px;
+}
+.early-access .btn4{
+  text-align: center;
+
+}
+.early-access button{
+  padding: 16px 16px;
+  margin-bottom: 16px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 50px;
+}
+.btn4 i{
+  margin-left: 10px;
+}
+.early-access .p2{
+  padding-bottom: 0;
+}
