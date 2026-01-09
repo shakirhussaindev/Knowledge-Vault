@@ -125,3 +125,66 @@ h1 span{
 .hero-btn .btn2:hover{
   border-color: #5fc78a;
 }
+
+/* Notes part css */
+
+.note{
+  background-color: #FBFBFB;
+  padding-top: 50px;
+}
+
+.note h2{
+  color: #001931;
+  font-size: 48px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 16px;
+}
+.note p{
+  color: #627382;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 44px;
+}
+
+.card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-box{
+  width: 322px;
+  background-color: white;
+  padding-top: 55px;
+  border-radius: 10px;
+
+}
+.card-icon{
+  background-color: #F95555;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.card-box h5{
+  color: #001931;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  padding: 16px 0;
+  text-align: center;
+}
+.card-box p{
+  color: #627382;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  line-height: 20px;
+}
